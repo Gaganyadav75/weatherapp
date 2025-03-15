@@ -19,7 +19,7 @@
     </div>
 
 
-    <Mode/>
+    //<Mode/>
 
 </div>
 
